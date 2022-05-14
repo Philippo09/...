@@ -1,0 +1,62 @@
+  body {
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+#top {
+  text-align: center;
+}
+  
+  #logo {
+    color: white;
+    background-color: skyblue;
+    display: inline-block;
+    font-size: 32px;
+    font-weight: bold;
+    padding: 8px;
+    margine-top: 16px;
+  }
+
+  #logo-name {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: black
+    margin: 8px
+  }
+
+#navigation a {
+  color: gray;
+  padding: 8px
+}
+
+#navigation a:hover {
+  color: deepskyblue;
+  
+}
+
+
+#image img {
+  width: 100%;
+  margine-top: 16px;
+  margine-bottom: 16px;
+
+}
+
+#main {
+  max-width: 800px;
+  margin: auto
+}
+
+#footer {
+  text-algine: center;
+  color: gray;
+  padding: 16px;
+}
+
+.bodytext {
+  width: 250px;
+  border: 1px solid black;
+  padding: 10px;
+  color: transparent;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
+  
+}
